@@ -1,0 +1,7 @@
+c:\users\rpinter\documents\visual studio 2013\Projects\3.9apiScraping\LakewoodScoop\bin\Debug\LakewoodScoop.dll
+c:\users\rpinter\documents\visual studio 2013\Projects\3.9apiScraping\LakewoodScoop\bin\Debug\LakewoodScoop.pdb
+c:\users\rpinter\documents\visual studio 2013\Projects\3.9apiScraping\LakewoodScoop\bin\Debug\AngleSharp.dll
+c:\users\rpinter\documents\visual studio 2013\Projects\3.9apiScraping\LakewoodScoop\bin\Debug\AngleSharp.xml
+c:\users\rpinter\documents\visual studio 2013\Projects\3.9apiScraping\LakewoodScoop\obj\Debug\LakewoodScoop.dll
+c:\users\rpinter\documents\visual studio 2013\Projects\3.9apiScraping\LakewoodScoop\obj\Debug\LakewoodScoop.pdb
+c:\users\rpinter\documents\visual studio 2013\Projects\3.9apiScraping\LakewoodScoop\obj\Debug\LakewoodScoop.csprojResolveAssemblyReference.cache

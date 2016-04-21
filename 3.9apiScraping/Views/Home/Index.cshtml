@@ -1,0 +1,32 @@
+﻿@using _3._9apiScraping
+@using _3._9apiScraping.Models
+@model ViewModel
+<h4>Please Note : This information is taken from Lakewood Scoop.</h4>
+<br />
+<br />
+<table class="table table-bordered table-striped table-hover">
+    <tr>
+        <th>Title</th>
+        <th>Url</th>
+        <th>Blurp</th>
+        <th>Comments</th>
+        <th>Image</th>
+
+    </tr>
+
+
+    @foreach (LakewoodScoop.Data d in Model.allData)
+    {
+        <tr>
+            <td>@d.Title</td>
+            <td><a href="@d.Url">@d.Title</a></td>
+            <td>@d.Blurb</td>
+            <td>@d.Comments</td>
+            <td><img class="alignleft" src="@d.Image" alt="image" width="374" height="222"></td>
+            @*<td><img src="@d.Image" style="width:200px" /></td>*@
+
+        </tr>
+    }
+
+
+</table>
